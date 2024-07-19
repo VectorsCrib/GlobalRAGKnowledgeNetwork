@@ -1,2 +1,2 @@
 # GlobalRAGKnowledgeNetwork
-This project aims to connect anyone in the world with the knowledge base network. Not only are you using RAG, GPT based models, and Node inspired Knowledge Network...
+This project aims to connect anyone in the world with the knowledge base network of locally bridged nodes for collective intelligence and knowledge retrieval.
